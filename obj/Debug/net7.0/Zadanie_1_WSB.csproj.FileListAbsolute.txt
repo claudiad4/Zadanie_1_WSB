@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\bin\Debug\net7.0\Zadanie_1_WSB.exe
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\bin\Debug\net7.0\Zadanie_1_WSB.deps.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\bin\Debug\net7.0\Zadanie_1_WSB.runtimeconfig.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\bin\Debug\net7.0\Zadanie_1_WSB.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\bin\Debug\net7.0\Zadanie_1_WSB.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\Zadanie_1_WSB.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\Zadanie_1_WSB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\Zadanie_1_WSB.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\Zadanie_1_WSB.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\Zadanie_1_WSB.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\Zadanie_1_WSB.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\refint\Zadanie_1_WSB.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\Zadanie_1_WSB.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\Zadanie_1_WSB.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\Zadanie_1_WSB\Zadanie_1_WSB\obj\Debug\net7.0\ref\Zadanie_1_WSB.dll
